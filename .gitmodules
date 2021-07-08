@@ -1,0 +1,6 @@
+[submodule "typescript-poc-client"]
+	path = typescript-poc-client
+	url = git@github.com-vn:pankajtirkey/typescript-poc-client.git
+[submodule "typescript-poc-server"]
+	path = typescript-poc-server
+	url = git@github.com-vn:pankajtirkey/typescript-poc-server.git
